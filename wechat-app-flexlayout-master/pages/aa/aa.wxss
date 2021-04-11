@@ -1,0 +1,25 @@
+.a{
+    font-size: 35rpx;
+}
+
+.h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
+
+  .txt{
+      margin: 8px 10px;
+      font-size: 14px;
+      white-space: nowrap;
+  }
+  
+  .first-img{
+      width: 750rpx;
+      height: 320rpx;
+  }
+
+  .cl4-img{
+    width: 134rpx;
+    height: 134rpx;
+  }

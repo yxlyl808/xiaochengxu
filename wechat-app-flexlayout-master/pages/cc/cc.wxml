@@ -1,0 +1,5 @@
+<scroll-view scroll-y="true" class="content">
+    <view class="s">
+        <text class="a">选机功能（市面所有数码产品汇总）</text>
+    </view>
+</scroll-view>

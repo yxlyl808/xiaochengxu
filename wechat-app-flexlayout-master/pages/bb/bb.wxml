@@ -1,0 +1,46 @@
+<scroll-view scroll-y="true" style="height: 800px;" class="container">
+    <view class="first line">
+        <image class="first-img" mode="scaleToFill" src="https://bkimg.cdn.bcebos.com/pic/0e2442a7d933c895d1437d4bd05f64f082025aafaae5"></image>
+    </view>
+    <view>
+        <text>*后端爬虫存在微小时延*</text>
+    </view>
+    <view class="s">
+        <text class="a">最新发布：(已按发布会时间排序)</text>
+    </view>
+    <view class="h1">
+        <view class="h">
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view> 
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>  
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+            <view class="cl4">
+                <image class="cl4-img" mode="scaleToFill" src="../../images/s2.png"></image>
+            </view>
+        </view>
+        <text class="a">{{logs}}</text>
+    </view>
+</scroll-view>
